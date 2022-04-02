@@ -1,0 +1,6 @@
+-- DROP DATABASE
+DROP DATABASE IF EXISTS iko_and_co_db;
+
+-- CREATE DATABASE
+CREATE DATABASE  iko_and_co_db;
+
